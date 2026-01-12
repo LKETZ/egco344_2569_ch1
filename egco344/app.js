@@ -5,7 +5,7 @@ const PORT = 3000;
 
 app.use(express.json());
 
-// Mock student data eiei
+// Mock student data eiei eiei
 const students = [
     { id: 'E001', name: 'John Smith', department: 'Computer Science', gpa: 3.85 },
     { id: 'E002', name: 'Sarah Johnson', department: 'Computer Science', gpa: 3.92 },
